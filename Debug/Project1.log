@@ -1,0 +1,4 @@
+﻿  dz2.cpp
+c:\users\pavle\desktop\kraj\project1\project1\dz2.cpp(289): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\pavle\desktop\kraj\project1\project1\dz2.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Pavle\Desktop\kraj\Project1\Debug\Project1.exe
